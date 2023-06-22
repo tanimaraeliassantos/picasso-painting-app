@@ -146,8 +146,9 @@ body {
 	left: 40%;
 }
 
-$black-round-hat {
+#black-round-hat {
 	width: 180px;
 	height: 150px;
 	background-color: rgb(45, 31, 19);
+	border-radius: 50%;
 }
